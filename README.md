@@ -16,6 +16,6 @@ Model Evaluation: Assess the trained model's performance using metrics like accu
 Continuous Improvement: Fine-tune the model based on other deep learning and machine learning techniques and real world feedback.
 5]Technology Used: 1] Python libraries such as numpy,pandas,matplotlib. 2] Tensorflow,Keras 3] CNN,VGG_NET
 
-6]Conclusion:
+5]Conclusion:
 
 We have provided an overview of the main approaches used for nodule classification and lung cancer prediction from CT imaging data. In our experience, given sufficient training data, the current state-of-the-art is achieved using CNNs trained with Deep Learning achieving a classification performance in the region of low 90s AUC points. When evaluating system performance, it is important to be aware of the limitations or otherwise of the training and validation data sets used, i.e., were the patients’ smokers or non-smokers, or were patients with a current or prior history of malignancy included.
